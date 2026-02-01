@@ -2,8 +2,6 @@ import math
 
 X = "X"
 O = "O"
-
-# IMPORTANT KEEP THIS IN MIND
 EMPTY = None
 
 def initial_state():
